@@ -1,0 +1,12 @@
+output.mp4
+0601_trial_video_timestamp.avi
+*.mp4
+*.avi
+*.mp4
+*.csv
+*.hdf5
+*.psydat
+*.log
+*.mpeg4
+data/.DS_Store
+.DS_Store
